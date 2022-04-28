@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aliHpanahi
 - 👀 I’m interested in backend and frondend technologies
 - 🌱 I’m currently learning python and react
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on some remote projects
 - 📫 How to reach me: p.alihussain@gmail.com
 
 <!---
